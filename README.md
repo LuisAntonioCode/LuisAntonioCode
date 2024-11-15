@@ -8,7 +8,7 @@
 
 - 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
 
-- 🎓 Actualmente estoy estudiando en la UNAD
+- 🎓 Actualmente estoy estudiando Ingeneria de Sistemas en la UNAD.
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 <p>
