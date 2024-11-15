@@ -6,9 +6,15 @@
 
 - 👨‍💻 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
 
-- 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
+- 🎓 Actualmente estoy cursando ultimo año de Ingeneria de Sistemas en la Univercidad Nacional Abierta y a Distancia.
 
-- 🎓 Actualmente estoy estudiando Ingeneria de Sistemas en la UNAD.
+- 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.
+
+- Disfruto enfrentar desafíos y optimizar aplicaciones para mejorar su rendimiento.
+
+- En cada proyecto, busco desarrollar código limpio y eficiente, y sigo las mejores prácticas en el desarrollo de software.
+
+- Estoy siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades y conocimientos.
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 <p>
