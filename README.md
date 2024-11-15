@@ -1,3 +1,6 @@
 <h1 align="center">Hola 👋, Soy Luis Antonio, Desarrollador Django ✨ </h1>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> Acerca de mí </h2>
+- Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
+  
+- 🌱 I’m currently learning Git, Java y GitHub
