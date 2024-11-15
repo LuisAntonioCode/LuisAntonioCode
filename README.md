@@ -8,13 +8,12 @@
 
 - 🎓 Actualmente estoy cursando ultimo año de Ingeneria de Sistemas en la Univercidad Nacional Abierta y a Distancia.
 
-- 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software.
+- 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software para mejorar mis habilidades y conocimientos.
 
-- Disfruto enfrentar desafíos y optimizar aplicaciones para mejorar su rendimiento.
+- 😄 Disfruto enfrentar desafíos y optimizar aplicaciones para mejorar su rendimiento.
 
-- En cada proyecto, busco desarrollar código limpio y eficiente, y sigo las mejores prácticas en el desarrollo de software.
+- 💻 En cada proyecto, busco desarrollar código limpio y eficiente, y sigo las mejores prácticas en el desarrollo de software.
 
-- Estoy siempre explorando nuevas tecnologías y metodologías para mejorar mis habilidades y conocimientos.
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 <p>
