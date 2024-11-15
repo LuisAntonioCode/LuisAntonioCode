@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Soy Luis Antonio, Desarrollador Django ✨ </h1>
+<h1 align="center">Hola 👋, Soy Luis Antonio, Desarrollador Backend Django ✨ </h1>
 
 <h2> 👨🏻‍💻 Acerca de mí </h2>
 
