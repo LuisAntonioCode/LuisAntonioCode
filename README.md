@@ -1,6 +1,7 @@
 <h1 align="center">Hola 👋, Soy Luis Antonio, Desarrollador Django ✨ </h1>
 
 <h2> 👨🏻‍💻 Acerca de mí </h2>
+
 - 👨‍💻 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
 
 - 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y hacks rápidos.
@@ -17,4 +18,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=>
 </p>
