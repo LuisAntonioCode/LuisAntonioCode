@@ -3,7 +3,8 @@
 <h2> 👨🏻‍💻 Acerca de mí </h2>
 
 
-<a href="#"><img align="right" width="300" height="150" src="https://i.imgur.com/iXuL1HG.png"></a>
+
+<a href="#"><img align="right" width="100%" height="auto" height="175px" src="https://i.imgur.com/iXuL1HG.png"></a>
 
 
 
