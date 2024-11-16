@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, Soy Luis Antonio, Desarrollador Backend Django ✨ </h1>
 
 </h2> 👨🏻‍💻 Acerca de mí </h2>
-
-
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 - 👨‍💻 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
