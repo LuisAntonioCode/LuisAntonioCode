@@ -2,7 +2,8 @@
 
 <h2> 👨🏻‍💻 Acerca de mí </h2>
 
-<img align="right" width="300" height="150" src="[https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif?cid=ecf05e47rl29lk1rsqp0p06ndmg4xlfcq6oamcvq8nezytvq&ep=v1_gifs_related&rid=giphy.gif&ct=g](https://img.freepik.com/vector-premium/programacion-manos-humanas-estilo-isometrico-python-serpiente-esta-asomando-detras-monitor_681307-289.jpg?w=740)">
+[<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="giphy">](https://t.me/voko_aleksey)
+
 
 - 👨‍💻 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
 
@@ -14,6 +15,7 @@
 
 - 💻 En cada proyecto, busco desarrollar código limpio y eficiente, y sigo las mejores prácticas en el desarrollo de software.
 
+- 💼 Estoy abierto a colaboraciones y oportunidades remotas.
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 <p>
