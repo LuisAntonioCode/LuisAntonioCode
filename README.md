@@ -2,11 +2,7 @@
 
 <h2> 👨🏻‍💻 Acerca de mí </h2>
 
-
-
-<a href="#"><img align="right" width="100%" height="auto" height="175px" src="https://i.imgur.com/iXuL1HG.png"></a>
-
-
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 - 👨‍💻 Soy un desarrollador de software con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
 
