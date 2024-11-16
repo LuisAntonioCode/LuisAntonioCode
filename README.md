@@ -38,7 +38,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majocausildev25/#:~:text=www.linkedin.com/in/majocausildev25)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisantonio_77/)
-[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](luisantoniocode@gmail.com)
+[![Correo Electrónic](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](luisantoniocode@gmail.com)
 
 ```python
 
