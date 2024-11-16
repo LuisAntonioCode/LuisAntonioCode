@@ -2,7 +2,7 @@
 
 ---
 
-## 👨🏻‍💻 Acerca de mí 
+</h2> 👨🏻‍💻 Acerca de mí </h2>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
@@ -30,3 +30,25 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </p>
+
+<h2> 📫 Contacto </h2>  
+<div align="left">
+  
+<h3>📊 Visita mis redes sociales</h3>
+  
+<img align="left" width="250" height="200" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/majocausildev25/#:~:text=www.linkedin.com/in/majocausildev25)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mary_josephdev?utm_source=qr&igsh=NXl6d25oamNrY2o3)
+[![Correo Electrónico](https://img.shields.io/badge/Correo%20Electr%C3%B3nico-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](majocausil16@gmail.com)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mariacausil61?_t=8insh3dkTLR&_r=1)
+
+```python
+
+while True:
+  comer()
+  dormir()
+  programar()
+  cafe()
+
+print("Y así, el ciclo continúa... Porque programar no es solo un trabajo, ¡es una pasión!")
