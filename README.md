@@ -6,15 +6,15 @@
 
 - 👨‍💻 Soy un desarrollador de software junior con 2 años de experiencia en la creación de aplicaciones web, especializado en desarrollo Backend con Django.
 
-- 🎓 Actualmente estoy cursando ultimo año de Ingeneria de Sistemas en la Univercidad Nacional Abierta y a Distancia.
+- 🎓 Soy Ingeniero de Sistemas graduado de la Universidad Nacional Abierta y a Distancia (UNAD), con sólidas habilidades en Python y amplia experiencia en su aplicación para el desarrollo web, así como en la creación de APIs REST utilizando Django REST Framework, una de las áreas que más me apasiona dentro del desarrollo backend.
 
-- 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software para mejorar mis habilidades y conocimientos.
+- 💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software que mejoren mis habilidades y amplíen mis conocimientos.
 
 - 😄 Disfruto enfrentar desafíos y optimizar aplicaciones para mejorar su rendimiento.
 
-- 💻 En cada proyecto, busco desarrollar código limpio y eficiente, y sigo las mejores prácticas en el desarrollo de software.
+- 💻 En cada proyecto, busco escribir código limpio, eficiente y mantenible, siguiendo las mejores prácticas del desarrollo de software.
 
-- 💼 Estoy abierto a colaboraciones y oportunidades remotas.
+- 💼 Estoy abierto a colaboraciones y oportunidades remotas en proyectos que representen nuevos retos tecnológicos.
 
 <h2>🛠️ Tecnologías y herramientas</h2>
 <p>
