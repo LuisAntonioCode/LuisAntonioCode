@@ -10,7 +10,7 @@
 
 - 💡 Me apasiona explorar nuevas tecnologías y desarrollar soluciones de software que mejoren mis habilidades y amplíen mis conocimientos.
 
-- 😄 Disfruto enfrentar desafíos y optimizar aplicaciones para mejorar su rendimiento.
+- 🏆 Cuento con certificación internacional en Linux Esencial, lo que complementa mis habilidades en el despliegue y administración de aplicaciones en entornos de producción.
 
 - 💻 En cada proyecto, busco escribir código limpio, eficiente y mantenible, siguiendo las mejores prácticas del desarrollo de software.
 
