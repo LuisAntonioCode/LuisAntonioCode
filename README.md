@@ -12,6 +12,10 @@
 
 - 🏆 Cuento con certificación internacional en Linux Esencial, lo que complementa mis habilidades en el despliegue y administración de aplicaciones en entornos de producción.
 
+- 📚 Actualmente estoy ampliando mis conocimientos en PostgreSQL para optimizar el manejo de bases de datos en mis proyectos.
+
+- 🤖 Estoy desarrollando APIs con Django REST Framework para integrar con inteligencia artificial y herramientas de automatización, explorando las posibilidades de estas tecnologías emergentes.
+
 - 💻 En cada proyecto, busco escribir código limpio, eficiente y mantenible, siguiendo las mejores prácticas del desarrollo de software.
 
 - 💼 Estoy abierto a colaboraciones y oportunidades remotas en proyectos que representen nuevos retos tecnológicos.
